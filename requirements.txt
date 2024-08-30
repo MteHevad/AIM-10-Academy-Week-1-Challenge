@@ -1,0 +1,11 @@
+Requirements
+Python Environment:
+Python 3.x installed on your system.
+Required Python Libraries:
+Install the following libraries using pip:
+1. pandas
+2. nltk
+3. matplotlib
+4. wordcloud
+5. collections (included with Python standard library)
+6. datetime (included with Python standard library)
