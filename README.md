@@ -1,4 +1,4 @@
-EADME: Quantitative Analysis Using PyNance and TA-Lib
+README: Quantitative Analysis Using PyNance and TA-Lib
 Overview
 This task focuses on performing a quantitative analysis of stock price data using PyNance and TA-Lib. The objective is to enhance your understanding of financial metrics and technical indicators to gain insights into stock market behavior.
 
